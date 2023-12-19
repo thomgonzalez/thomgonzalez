@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **Payroll**
 
-- 🌱 I’m currently learning **Machine Learning, ReactJS**
+- 🌱 I’m currently learning **Machine Learning, Data Science, Blockchain, RPG**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thomgonzalez](https://github.com/thomgonzalez)
 
-- 💬 Ask me about **Python, IA**
+- 💬 Ask me about **Python, IA, Microservices, Big Data, AWS, Pollinators, Native Bees**
 
 - 📫 How to reach me **thom.sgonzalez@gmail.com**
 
