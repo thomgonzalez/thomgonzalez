@@ -1,5 +1,12 @@
 ### Hi there, I'm Tomás González (thomgonzalez) 👋
 ### Niltze, Na Notoca Tomás González (thomgonzalez) 👋
+
+About Me
+========
+I am an IT Engineer and Beekeeper. I currently live in Mexico City.
+
+I speak Spanish, Nahuatl and I am proud of my roots.
+
 <!--
 **thomgonzalez/thomgonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
