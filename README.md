@@ -3,7 +3,7 @@
 
 <h3>About Me</h3>
 <h3>I am an IT Engineer and Beekeeper. I currently live in Mexico City.</h3>
-<h3>I am an IT Engineer and Beekeeper. I speak Spanish, Náhuatl and I am proud of my roots. </h3>
+<h3>I speak Spanish, Náhuatl and I am proud of my roots. </h3>
 
 
 - 🔭 I’m currently working on **Payroll**
