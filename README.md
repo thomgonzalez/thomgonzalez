@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Tomás Santiago (sutsantiago) 👋 </h1>
-<h1 align="center">Niltze, Na Notoca Tomás Santiago (sutsantiago) 👋 </h1>
+<h1 align="center">Hi there, I'm Tomás Santiago 👋 </h1>
+<h1 align="center">Niltze, Na Notoca Tomás Santiago 👋 </h1>
 
 <h3>About Me</h3>
 <h3>I am an IT Engineer and Beekeeper. I currently live in Mexico City.</h3>
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Data Science, Blockchain, RPG**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sutsantiago](https://github.com/sutsantiago)
+- 👨‍💻 All of my projects are available at [https://github.com/roottsantiago](https://github.com/roottsantiago)
 
 - 💬 Ask me about **Python, IA, Microservices, Big Data, AWS, Pollinators, Native Bees**
 
