@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Tomás Santiago 👋 </h1>
-<h1 align="center">Niltze, Na Notoca Tomás Santiago 👋 </h1>
+<h1 align="center">Hi there, I'm Tomás Santiago </h1>
+<h1 align="center">Niltze, Na Notoca Tomás Santiago </h1>
 
 <h3>About Me</h3>
-<h3>I am an IT Engineer and Beekeeper. I currently live in Mexico City.</h3>
+<h3>I am an IT Engineer and Beekeeper. I currently live in ~$ 127.0.0.1.</h3>
 <h3>I speak Spanish, Náhuatl and I am proud of my roots. </h3>
 
 
