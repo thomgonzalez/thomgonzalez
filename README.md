@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Data Science, Blockchain, RPG**
 
-- 👨‍💻 All of my projects are available at [https://github.com/roottsantiago](https://github.com/rootsantiago)
+- 👨‍💻 All of my projects are available at [https://github.com/rootsantiago](https://github.com/rootsantiago)
 
 - 💬 Ask me about **Python, IA, Microservices, Big Data, AWS, Pollinators, Native Bees**
 
